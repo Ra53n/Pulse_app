@@ -1,8 +1,8 @@
-package com.example.pulseapp
+package com.example.pulseapp.presentation.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.pulseapp.ui.main.MainFragment
+import androidx.appcompat.app.AppCompatActivity
+import com.example.pulseapp.R
 
 class MainActivity : AppCompatActivity() {
 
